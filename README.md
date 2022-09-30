@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/jayabalaji-v-a87141169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jayabalaji-v-a87141169" height="30" width="40" /></a>
+<a href="[httlinkedin.com/in/jaya-balaji-v-517733250](https://www.linkedin.com/in/jaya-balaji-v-517733250/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jayabalaji-v-a87141169" height="30" width="40" /></a>
 <a href="https://instagram.com/balags_space" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="balags_space" height="30" width="40" /></a>
 </p>
 
