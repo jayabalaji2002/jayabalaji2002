@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **.**
 
-- 👯 I’m looking to collaborate on **freelancing webdevelopment**
-
 - 👨‍💻 All of my projects are available at [jayabalaji2002](jayabalaji2002)
 
 - 💬 Ask me about **HTML,CSS,.js**
@@ -17,7 +15,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/187V3R2ms-ZWOuG2QEaXVKZsQt8U9ItGo/view?usp=sharing](https://drive.google.com/file/d/187V3R2ms-ZWOuG2QEaXVKZsQt8U9ItGo/view?usp=sharing)
 
-- ⚡ Fun fact **I am your stressbuster haha...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
