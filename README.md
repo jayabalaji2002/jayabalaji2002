@@ -9,15 +9,13 @@
 
 - 👯 I’m looking to collaborate on **freelancing webdevelopment**
 
-- 🤝 I’m looking for help with **Full Stack**
-
 - 👨‍💻 All of my projects are available at [jayabalaji2002](jayabalaji2002)
 
 - 💬 Ask me about **HTML,CSS,.js**
 
 - 📫 How to reach me **jayabalajipersonal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ibTukSNgs6rIzh7sQUx0kkelH9JBW9G9/view?usp=sharing](https://drive.google.com/file/d/1HDnXL3voic538aX1jaUyd2PDU93iDsBB/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/187V3R2ms-ZWOuG2QEaXVKZsQt8U9ItGo/view?usp=sharing](https://drive.google.com/file/d/187V3R2ms-ZWOuG2QEaXVKZsQt8U9ItGo/view?usp=sharing)
 
 - ⚡ Fun fact **I am your stressbuster haha...**
 
